@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="OpenCVEncoder" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="OpenCVEncoder">
+         <Option output="/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host/OpenCVEncoder" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv4" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 OpenCVEncoder" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="OpenCVEncoder/fast">
+         <Option output="/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host/OpenCVEncoder" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+            <Add directory="/usr/local/include/opencv4" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 OpenCVEncoder/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/cmake-build-debug-remote-host/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/OpenCVWrapper.cpp">
+         <Option target="OpenCVEncoder"/>
+      </Unit>
+      <Unit filename="/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/OpenCVWrapper.h">
+         <Option target="OpenCVEncoder"/>
+      </Unit>
+      <Unit filename="/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/main.cpp">
+         <Option target="OpenCVEncoder"/>
+      </Unit>
+      <Unit filename="/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/../../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\" />
+      </Unit>
+      <Unit filename="/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/../../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\" />
+      </Unit>
+      <Unit filename="/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/../../../../../../usr/local/lib/cmake/opencv4/OpenCVModules.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\" />
+      </Unit>
+      <Unit filename="/home/mmlab/hdd/Golf/Encoder/OpenCVEncoder/../../../../../../usr/local/lib/cmake/opencv4/OpenCVModules-release.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>
